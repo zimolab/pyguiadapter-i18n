@@ -1,0 +1,41 @@
+{
+  "window":{
+    "title": "i18n基本示例",
+    "execute_button": "执行",
+    "clear_button": "清除",
+    "output_dock": "程序输出",
+    "document_dock": "文档",
+    "default_param_group": "主要参数"
+
+  },
+  "menu": {
+    "lang": "语言"
+  },
+  "messages": {
+    "lang_changed": "语言已切换，请重启程序！",
+    "function_result": "执行结果：{0}"
+  },
+  "widgets": {
+    "arg1": {
+      "label": "参数1",
+      "description": "这是第一个参数。"
+    },
+    "arg2": {
+      "label": "参数2",
+      "description": "这是第二个参数。"
+    },
+    "arg3": {
+      "label": "参数3",
+      "description": "这是第三个参数。"
+    },
+    "arg4": {
+      "label": "参数4",
+      "description": "这是第四个参数。"
+    },
+    "arg5": {
+      "label": "参数5",
+      "description": "这是第五个参数。",
+      "edit_button": "编辑"
+    }
+  }
+}

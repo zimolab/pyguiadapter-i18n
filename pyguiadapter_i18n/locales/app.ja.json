@@ -1,0 +1,37 @@
+{
+  "window":{
+    "title": "i18nの基本的な使い方",
+    "execute_button": "開始",
+    "clear_button": "パージ"
+  },
+  "menu": {
+    "lang": "言語"
+  },
+  "messages": {
+    "lang_changed": "言語が切り替わりましたので、プログラムを再起動してください！",
+    "function_result": "関数の実行結果: {}"
+  },
+  "widgets": {
+    "arg1": {
+      "label": "パラメータ1",
+      "description": "これが第1のパラメータです。"
+    },
+    "arg2": {
+      "label": "パラメータ2",
+      "description": "これが第2のパラメータです。"
+    },
+    "arg3": {
+      "label": "パラメータ3",
+      "description": "これが第3のパラメータです。"
+    },
+    "arg4": {
+      "label": "パラメータ4",
+      "description": "これが第4のパラメータです。"
+    },
+    "arg5": {
+      "label": "パラメータ5",
+      "description": "これが第5のパラメータです。",
+      "edit_button": "編集"
+    }
+  }
+}

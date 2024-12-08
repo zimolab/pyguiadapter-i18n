@@ -1,0 +1,40 @@
+{
+  "window": {
+    "title": "Basic i18n Example",
+    "execute_button": "Execute",
+    "clear_button": "Clear",
+    "output_dock": "Output",
+    "document_dock": "Document",
+    "default_param_group": "Main Parameters"
+  },
+  "menu": {
+    "lang": "language"
+  },
+  "messages": {
+    "lang_changed": "Language has been changed! Please restart the application to apply the changes.",
+    "function_result": "function result: {}"
+  },
+  "widgets": {
+    "arg1": {
+      "label": "Argument 1",
+      "description": "This is the first argument."
+    },
+    "arg2": {
+      "label": "Argument 2",
+      "description": "This is the second argument."
+    },
+    "arg3": {
+      "label": "Argument 3",
+      "description": "This is the third argument."
+    },
+    "arg4": {
+      "label": "Argument 4",
+      "description": "This is the fourth argument."
+    },
+    "arg5": {
+      "label": "Argument 5",
+      "description": "This is the fifth argument.",
+      "edit_button": "Edit"
+    }
+  }
+}
